@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/miku/AndroidStudioProjects/BugdroidC2/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/miku/Coding/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/miku/AndroidStudioProjects/BugdroidC2/app/.cxx/RelWithDebInfo/t4l5s4n1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/miku/Coding/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/miku/AndroidStudioProjects/BugdroidC2/app/.cxx/RelWithDebInfo/t4l5s4n1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bugdroidc2::@6890427a1f51a3e7e1df": {
+      "artifactName": "bugdroidc2",
+      "abi": "x86",
+      "output": "/home/miku/AndroidStudioProjects/BugdroidC2/app/build/intermediates/cxx/RelWithDebInfo/t4l5s4n1/obj/x86/libbugdroidc2.so",
+      "runtimeFiles": []
+    }
+  }
+}

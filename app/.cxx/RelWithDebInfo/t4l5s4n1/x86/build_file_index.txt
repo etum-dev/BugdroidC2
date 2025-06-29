@@ -1,0 +1,1 @@
+/home/miku/AndroidStudioProjects/BugdroidC2/app/src/main/cpp/CMakeLists.txt

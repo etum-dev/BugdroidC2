@@ -1,0 +1,3 @@
+/home/miku/AndroidStudioProjects/BugdroidC2/app/.cxx/RelWithDebInfo/t4l5s4n1/x86/CMakeFiles/bugdroidc2.dir
+/home/miku/AndroidStudioProjects/BugdroidC2/app/.cxx/RelWithDebInfo/t4l5s4n1/x86/CMakeFiles/edit_cache.dir
+/home/miku/AndroidStudioProjects/BugdroidC2/app/.cxx/RelWithDebInfo/t4l5s4n1/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/home/miku/AndroidStudioProjects/BugdroidC2/app/build/intermediates/cxx/RelWithDebInfo/t4l5s4n1/obj/x86
